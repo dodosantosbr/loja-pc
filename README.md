@@ -16,7 +16,7 @@ Acesse o projeto finalizado no link a seguir !!
 
 ## :memo: Licença
 
-Esse projeto está sob a licença dos gêmeos DevEmDobro.
+Esse projeto está sob a minha autoria.
 
 ---
 
