@@ -1,5 +1,8 @@
 ## 🚀 Tecnologias
 
+<img width="1287" height="638" alt="image" src="https://github.com/user-attachments/assets/769847b0-db8a-4018-b735-9f8d26ec2694" />
+
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
